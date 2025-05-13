@@ -1,0 +1,7 @@
+Threat,Severity
+Failed Login,High
+Malicious Powershell,Medium
+S3 Bucket Deletion,High
+Suspicious IP,Low
+Data Exfiltration,High
+Unauthorized Access,Medium

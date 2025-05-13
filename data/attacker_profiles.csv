@@ -1,0 +1,4 @@
+Name,Role,LastSeen,Description
+APT28,Recon,2025-05-08,"Russian cyber-espionage group scanning AWS endpoints"
+ZeroDayBandit,Exploit,2025-05-07,"Known for zero-day attacks on web apps"
+ScriptKiddie123,Brute Force,2025-05-09,"Automated SSH brute-force attempts"
